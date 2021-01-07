@@ -6,6 +6,16 @@ Welcome to my personal website! I am a second-year Computer Science student at U
 
 I would love to connect and share my full resume with you! To get to know me better, visit my [LinkedIn](https://www.linkedin.com/in/anoushka-dave/) or [email me](mailto:adave@ucsd.edu)! Check out all of my projects by visiting my [GitHub](https://github.com/anoushkadave)! I look forward to speaking with you :smile:!
 
+The following sections describe my experiences in more detail!
+
+[Education](#education)
+
+[Relevant Experience](#relevant-experience)
+
+[Personal Projects](#personal-projects)
+
+[Leadership Experience](#leadership-experience)
+
 ## Education
 
 ## Relevant Experience
