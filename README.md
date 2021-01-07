@@ -1,6 +1,14 @@
-# Anoushka Dave's User Page
+# Anoushka Dave
 
-My favorite programming language is Java.
+Welcome to my personal website! I am a second-year Computer Science student at UC San Diego in Marshall College. I love programming, implementing my vision through personal projects, and helping my community. Outside of classes, I actively participate in student organizations and love theatre!
+
+## Education
+
+## Relevant Experience
+
+## Personal Projects
+
+## Leadership Experience
 
 ## Welcome to GitHub Pages
 
