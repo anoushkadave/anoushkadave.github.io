@@ -1,6 +1,6 @@
 # Anoushka Dave
 
-![Headshot](./images/Anoushka_Dave.jpg =50x50)
+![Headshot](https://github.com/anoushkadave/anoushkadave.github.io/blob/main/images/Anoushka_Dave.jpg =50x50)
 
 Welcome to my personal website! I am a second-year Computer Science student at UC San Diego in Marshall College. I love programming, implementing my vision through personal projects, and helping my community. Outside of classes, I actively participate in student organizations and love theatre!
 
