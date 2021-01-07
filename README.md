@@ -4,6 +4,8 @@
 
 Welcome to my personal website! I am a second-year Computer Science student at UC San Diego in Marshall College. I love programming, implementing my vision through personal projects, and helping my community. Outside of classes, I actively participate in student organizations and love theatre!
 
+I would love to connect and share my full resume with you! To get to know me better, visit my LinkedIn or email me! I look forward to speaking with you :smile:!
+
 ## Education
 
 ## Relevant Experience
