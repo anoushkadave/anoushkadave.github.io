@@ -2,13 +2,17 @@
 
 <img src="images/Anoushka_Dave.jpg" alt="drawing" width="250" height="250"/>
 
+
+
 Welcome to my personal website! I am a second-year Computer Science student at UC San Diego in Marshall College. I love programming, implementing my vision through personal projects, and helping my community. Outside of classes, I actively participate in student organizations and love theatre!
 
 I would love to connect and share my full resume with you! To get to know me better, visit my [LinkedIn](https://www.linkedin.com/in/anoushka-dave/) or [email me](mailto:adave@ucsd.edu)! Check out all of my projects by visiting my [GitHub](https://github.com/anoushkadave)! I look forward to speaking with you 😄!
 
-The following sections describe my experiences in more detail!
+The following sections describe my experiences in more detail:
 
 [Education](#education)
+
+[Programming Skills](#programming-skills)
 
 [Relevant Experience](#relevant-experience)
 
@@ -17,13 +21,16 @@ The following sections describe my experiences in more detail!
 [Leadership Experience](#leadership-experience)
 
 ## Education
-test
+
+## Programming Skills
 
 ## Relevant Experience
 
 ## Personal Projects
 
 ## Leadership Experience
+
+If you are unable to view this website correctly, please visit the public GitHub repository [here](./README.md).
 
 ## Welcome to GitHub Pages
 
