@@ -83,4 +83,4 @@ The following sections describe my experiences in more detail:
 3. Hindi, *Native*
 4. Gujarati, *Native*
 
-If you are unable to view this website correctly, please visit the public GitHub repository [here](./README.md).
+Check out the configuration file I used to create this theme [here](./_config.yml)!
