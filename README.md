@@ -83,4 +83,4 @@ The following sections describe my experiences in more detail:
 3. Hindi, *Native*
 4. Gujarati, *Native*
 
-![here](./images/UCSD_Jacobs_logo.png)
+![here](./images/UCSD_Jacobs_Logo.png)
