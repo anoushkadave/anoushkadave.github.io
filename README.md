@@ -25,7 +25,9 @@ The following sections describe my experiences in more detail:
 #### Bachelor of Science, Computer Science
 ##### Minor in Theatre
 ***University of California, San Diego***, **GPA: 4.000**
+
 *September 2019 - Anticipated June 2023*
+
 - Provost Honors Recipient (Fall 2019, Winter 2020, Spring 2020, Fall 2020)
 - Thurgood Marshall College Honors Student
 - Relevant Coursework
@@ -50,7 +52,9 @@ The following sections describe my experiences in more detail:
 
 #### High School Diploma
 ***University Preparatory Academy***, **GPA: 4.000**
+
 *August 2015 - September 2019*
+
 - 9 Advanced Placement Courses
 
 ## Programming Skills
