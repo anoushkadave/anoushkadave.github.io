@@ -83,4 +83,4 @@ The following sections describe my experiences in more detail:
 3. Hindi, *Native*
 4. Gujarati, *Native*
 
-Check out the configuration file I used to create this theme [here](./_config.yml)!
+![here](./images/UCSD_Jacobs_logo.png)
