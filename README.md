@@ -79,8 +79,8 @@ The following sections describe my experiences in more detail:
 ## Languages
 
 1. English, *Native*
-2. Spanish, *Conversational*
-3. Hindi, *Native*
-4. Gujarati, *Native*
+2. Hindi, *Native*
+3. Gujarati, *Native*
+4. Spanish, *Conversational*
 
 ![UCSD Logo](images/UCSD_Jacobs_Logo.png)
