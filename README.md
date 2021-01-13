@@ -52,7 +52,7 @@ The following sections describe my experiences in more detail:
 #### High School Diploma
 ***University Preparatory Academy***, **GPA: 4.000**
 
-*August 2015 - September 2019*
+*August 2015 - June 2019*
 
 - 9 Advanced Placement Courses
 
